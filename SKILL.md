@@ -123,12 +123,12 @@ du -sh "$OUTPUT_DIR"
 ```
 mail_markdown/
   Personal Folders/
-    Work/Analyses/Global/BG Knarr/
-      Knarr OpLim report__a1b2c3d4/
+    Work/Analyses/Global/Project Alpha/
+      Alpha status report__a1b2c3d4/
         conversation.md       ← full thread, chronological
         attachments/
-          OpLim_Rev3.pdf
-          stress_analysis.xlsx
+          report_rev3.pdf
+          data_analysis.xlsx
     Inbox/
       Re_ Project kickoff__e5f6a7b8/
         conversation.md
